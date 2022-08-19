@@ -7,8 +7,8 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Python Docs, Take Two'
-copyright = '2022, Bradley Reynolds'
-author = 'Bradley Reynolds'
+copyright = "2022, Let's build a ..."
+author = "Let's build a ..."
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
