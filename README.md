@@ -1,2 +1,2 @@
-# python-std-docs-take-two-but-actually-navigable
+# python-std-docs-take-two
 Python standard library documentation, take two
