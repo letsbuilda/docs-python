@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Python Docs, Take Two'
+project = 'Python'
 copyright = "2022, Let's build a ..."
 author = "Let's build a ..."
 
