@@ -1,2 +1,2 @@
-# python-std-docs-take-two
-Python standard library documentation, take two
+# docs-python
+Python standard library documentation
