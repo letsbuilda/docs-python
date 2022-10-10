@@ -1,11 +1,18 @@
-Python Standard Library
-=======================
+Standard Library
+================
 
 All modules in the standard library are documented here.
 
 .. toctree::
+   :glob:
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Builtins:
 
-   builtins/dict
-   files-directories/pathlib
+   builtins/*   
+
+.. toctree::
+   :glob:
+   :maxdepth: 2
+   :caption: Modules:
+
+   files-directories/*
