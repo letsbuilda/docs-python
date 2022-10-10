@@ -1,2 +1,2 @@
 # docs-python
-Python standard library documentation
+Alternate Python standard library documentation
