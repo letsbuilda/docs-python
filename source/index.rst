@@ -12,6 +12,7 @@ indepth tutorials for packaging.
    api/standard-library/index
    api/packaging/index
 
+.. only:: html
 
 Indices and tables
 ==================
