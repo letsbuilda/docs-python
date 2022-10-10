@@ -1,5 +1,5 @@
-Python Docs, Take Two
-=====================
+Python Docs
+===========
 
 An attempt to rewrite the Python documentation into 
 a format that is easier to index, and to provide more
