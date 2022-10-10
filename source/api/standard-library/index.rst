@@ -6,7 +6,13 @@ All modules in the standard library are documented here.
 .. toctree::
    :glob:
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Builtins:
 
-   builtins/*
+   builtins/*   
+
+.. toctree::
+   :glob:
+   :maxdepth: 2
+   :caption: Modules:
+
    files-directories/*
