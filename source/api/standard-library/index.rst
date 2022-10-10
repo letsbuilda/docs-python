@@ -8,5 +8,4 @@ All modules in the standard library are documented here.
    :maxdepth: 2
    :caption: Contents:
 
-   builtins/*
-   files-directories/*
+   api/*   
